@@ -360,6 +360,7 @@ a:hover {
   right: 0;
   bottom: 1rem;
   width: 228px;
+  border-radius: 10px;
 }
 
 .home__info-title {
@@ -677,6 +678,7 @@ a:hover {
   padding: .5rem;
   display: flex;
   justify-content: space-between;
+  border-radius: 10px;
 }
 
 .subscribe__input {
